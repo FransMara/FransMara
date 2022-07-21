@@ -1,1 +1,1 @@
-Hi, I’m Francesco, I'm currently a masters engineering student in Trento, Italy. 
+Hi, I’m Francesco, I am a masters engineering student in Trento, Italy. 
